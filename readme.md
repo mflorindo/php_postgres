@@ -16,10 +16,10 @@ Há dois arquivos:<br>
 **Crie a base de dados e o schema "public"**
 
 ## Alterando os dados de conexão ##
-### Para alterar os dados de conexão acesse o arquivo na raix database.ini e preencha os dados de configuração do seu banco.
+### Para alterar os dados de conexão acesse o arquivo na raiz database.ini e preencha os dados de configuração do seu banco.
 
 ## Sobre a pasta database
-### Para este projeto teste utilizamos o docker com o postgres 9.4 e a pasta database é o volume dos dados. Se for usar um docker com postgres 9.4, aponte o volume para esta pasta e já estará com o banco de dados ativo.
+### Para este projeto teste utilizamos o docker com o postgres 9.4. A pasta database é o volume dos dados. Se for usar um docker com postgres 9.4, aponte o volume para esta pasta e já estará com o banco de dados ativo.
 
 # Agora é testar! :)
 
